@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated custom columnar files
+*.ccf
+
+# Output CSV files created during testing
+output.csv
+recovered.csv
+only_price.csv
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment (if used)
+venv/
+.env/
